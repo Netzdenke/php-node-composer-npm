@@ -12,6 +12,3 @@ docker push netzdenke/php-node-composer-npm
 ```
 docker run -v ${PWD}:/application --workdir="/application" -it netzdenke/php-node-composer-npm:php7.4 bash
 ```
-
-
-f46f1269682a
